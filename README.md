@@ -8,3 +8,4 @@ This is the code for the TipTime app project in the [second pathway](https://dev
 
 
 ## Main Features
+[TipTime.gif.zip](https://github.com/hannahStapleton/TipTime/files/10547926/TipTime.gif.zip)
